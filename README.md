@@ -1,27 +1,5 @@
-# car_rental
 
-Proyecto realizado en Flutter para propósito de práctica.
 
-#### Descripción:
-App para servicio de alquiler de Autos online.
-
-#### Pantallas:
- - Inicio y seleccionar localidad.
- - Establecer fecha de inicio y devolución.
- - Lista de coches disponibles.
- - Detalle e info de cada coche.
- - Completar datos personales del comprador.
- - Pagar.
- - Cierre.
- 
- #### Detalles técnicos:
- - No tiene conexión a ninguna DB, los datos estan harcodeados.
- - Para el calendario usé el paquete table_calendar.
- - Para displayar las imágenes usé el paquete carousel_pro.
- - Para el gestor de estado de los widgets usé ValueListenableBuilder nativo de flutter.
- - La fuente personalizada es Exo
-
-#### El diseño y la UX fueron hechas por mí :yum:
 
 #### Screenshots:
 ![Home screen](https://firebasestorage.googleapis.com/v0/b/whatsapp-shop-ffa89.appspot.com/o/screenshots-para-github%2Fcart_rental_screens%2FGifAutoUser.gif?alt=media&token=a6c1ffe7-5c0e-4081-8e89-304c3771803e)
